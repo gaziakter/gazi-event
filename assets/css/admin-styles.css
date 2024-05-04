@@ -1,0 +1,41 @@
+.event-calendar {
+    margin-bottom: 20px;
+}
+
+.event-calendar h2 {
+    margin-top: 0;
+}
+
+.event-calendar table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.event-calendar th,
+.event-calendar td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.event-calendar .has-event {
+    background-color: #f0f0f0;
+}
+
+.event-list {
+    margin-top: 20px;
+}
+
+.event-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.event-list li {
+    margin-bottom: 10px;
+}
+
+.event-list li strong {
+    font-weight: bold;
+}
+
